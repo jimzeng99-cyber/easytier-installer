@@ -1,4 +1,4 @@
-EasyTier ET Shortcut Installer
+# EasyTier ET Shortcut Installer
 
 Stable one-command installer for the EasyTier menu script shortcut.
 
